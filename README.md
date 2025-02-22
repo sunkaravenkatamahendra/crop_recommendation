@@ -34,14 +34,14 @@ The recommendation is displayed on the UI with a brief explanation.
 ## 🏗 Installation & Usage
 
 🔧 1. Clone the Repository
-### git clone https://github.com/yourusername/crop-recommendation-system.git
+## git clone https://github.com/yourusername/crop-recommendation-system.git
 cd crop-recommendation-system
 
 ## 📦 2. Install Dependencies
-### pip install -r requirements.txt
+## pip install -r requirements.txt
 
 ## 🚀 3. Run the Application
-### streamlit run app.py
+## streamlit run app.py
 
 
 

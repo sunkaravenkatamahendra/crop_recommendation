@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyBVrqOceaIdzOP6-5_P-wwP5R-TAUr9zaI")
+genai.configure(api_key="Enter your Gemini_AI API Key")
 
 def recommend_crop(N, P, K, temperature, humidity, ph, rainfall):
     
